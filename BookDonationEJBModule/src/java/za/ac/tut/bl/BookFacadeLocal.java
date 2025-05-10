@@ -29,5 +29,13 @@ public interface BookFacadeLocal {
     List<Book> findRange(int[] range);
 
     int count();
-
+    //Customized methods -JPQL 
+    
+    List<Book> findAvailableBooks();
+    
+    List<Book> findByFaculty(String faculty);
+    
+    List<Book> searchByTitle(String title);
+    
+    List<Book> searchByTitleAndFaculty(String title, String faculty);
 }
