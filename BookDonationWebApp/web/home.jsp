@@ -17,8 +17,8 @@
         <p>Select one of the following options</p>
         
         <ul>
-            <li><a href="graduate.jsp">Graduate</a></li>
-            <li><a href="student.jsp">Student</a></li>
+            <li><a href="graduate_menu.jsp">Graduate</a></li>
+            <li><a href="student_menu.jsp">Student</a></li>
         </ul>
 
         
