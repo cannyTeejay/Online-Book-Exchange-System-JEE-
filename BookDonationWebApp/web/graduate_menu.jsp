@@ -13,9 +13,11 @@
     </head>
     <body>
         <h1>Graduate Menu</h1>
+        
         <p>Please select one of the following options:</p>
         
         <ul>
+            <li><a href="add_graduate.jsp">Create Graduate</a></li>
             <li><a href="add_book.jsp">Add Book</a></li>
             <li><a href="update_book_details.jsp">Update Book Details</a></li>
             <li><a href="delete_book.jsp">Delete Book</a></li>

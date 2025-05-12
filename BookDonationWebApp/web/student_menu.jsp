@@ -17,10 +17,11 @@
           <p>Please select one of the following options:</p>
         
         <ul>
+            <li><a href="add_student.jsp">Add Student</a></li>
             <li><a href="view_all_books.jsp">View All Books</a></li>
             <li><a href="search_book.jsp">Search Book</a></li>
             
         </ul>
-          <p><a>Home Page</a></p>
+          <p><a href="home.jsp">Home Page</a></p>
     </body>
 </html>
