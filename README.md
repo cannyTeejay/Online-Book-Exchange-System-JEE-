@@ -6,7 +6,7 @@ Graduate users can donate books by posting details like title, faculty, and edit
 
 Students can search and filter available books by title, faculty, and status.
 
-Role-based user management (graduate, student, admin).
+Role-based user management (graduate, student).
 
 Book status tracking (e.g., AVAILABLE, DONATED).
 
