@@ -7,6 +7,7 @@ package za.ac.tut.bl;
 
 import java.util.List;
 import javax.ejb.Local;
+import za.ac.tut.entities.Book;
 import za.ac.tut.entities.User;
 
 /**

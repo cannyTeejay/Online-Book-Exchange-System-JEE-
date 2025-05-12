@@ -26,8 +26,8 @@ public class Book implements Serializable {
     private String title;
     private String faculty;
     private String status;
-    private Date datePosted;
     @Temporal(javax.persistence.TemporalType.TIMESTAMP)
+    private Date datePosted;  
     private User user;
 
     public Book() {

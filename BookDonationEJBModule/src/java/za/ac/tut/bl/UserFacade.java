@@ -5,9 +5,12 @@
  */
 package za.ac.tut.bl;
 
+import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
+import javax.persistence.Query;
+import za.ac.tut.entities.Book;
 import za.ac.tut.entities.User;
 
 /**
